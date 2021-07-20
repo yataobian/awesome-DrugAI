@@ -4,12 +4,12 @@
 
 - [Main Applications](#Main-applications)
 - [Papers (Topic-wise, Reverse Chronological Order)](#papers-topic-wise-reverse-chronological-order))
-    - [ADMET prediction](#ADMET prediction)
-    - [Protein property prediction](#Protein property prediction)
-    - [Protein structure prediction](#Protein structure prediction)
-    - [Retrosynthesis](#Retrosynthesis)
-    - [Generative chemistry](#Generative chemistry)
-    - [Virtual screening](#Virtual screening)
+    - [ADMET prediction](#ADMET-prediction)
+    - [Protein property prediction](#Protein-property-prediction)
+    - [Protein structure prediction](#Protein-structure-prediction)
+    - [Retrosynthetic analysis](#Retrosynthetic-analysis)
+    - [Generative chemistry](#Generative-chemistry)
+    - [Virtual screening](#Virtual-screening)
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
 
