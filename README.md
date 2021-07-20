@@ -3,7 +3,14 @@
 > A comprehensive list of drug AI papers and materials.
 
 - [Main Applications](#Main-applications)
-- [Papers (Reverse Chronological Order)](#papers-reverse-chronological-order))
+- [Papers (Topic-wise, Reverse Chronological Order)](#papers-topic-wise-reverse-chronological-order))
+    - [ADMET prediction](#ADMET prediction)
+    - [Protein property prediction](#Protein property prediction)
+    - [Protein structure prediction](#Protein structure prediction)
+    - [Retrosynthesis](#Retrosynthesis)
+    - [Generative chemistry](#Generative chemistry)
+    - [Virtual screening](#Virtual screening)
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
-- [Open Source Libraries](#open-source-libraries)
+
+- [Open Source Libraries & Platforms](#open-source-libraries-platforms)
