@@ -14,16 +14,31 @@
     - [Virtual screening](#Virtual-screening)
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
-- [Open Source Libraries & Platforms](#open--source--libraries--platforms)
+- [Open Source Libraries & Platforms](#open-source-libraries--platforms)
 
 ## Main Applications
 
 ## Papers (Topic-wise, Reverse Chronological Order)
 
-## Tutorials & Talks & Blogs
+### ADMET prediction
 
+### Protein property prediction
+
+### Protein structure prediction
+
+### Retrosynthetic analysis
+
+### Generative chemistry
+
+- [ ] [Shi, C., Luo, S., Xu, M., & Tang, J. (2021). \
+ Learning gradient fields for molecular conformation generation. arXiv preprint arXiv:2105.03902.](https://arxiv.org/abs/2105.03902)
+
+### Virtual screening
+
+
+## Tutorials & Talks & Blogs
 
 ## Open Source Libraries & Platforms
 
-- [ ] [Tencent Holdings Ltd. (2020)\
+- [ ] [Tencent Holdings Ltd. (2020). \
 The iDrug platform.](https://drug.ai.tencent.com/en)
