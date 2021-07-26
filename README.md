@@ -14,16 +14,16 @@
     - [Virtual screening](#Virtual-screening)
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
-- [Open Source Libraries & Platforms](#open-source-libraries-platforms)
+- [Open Source Libraries & Platforms](#open--source--libraries--platforms)
 
 ## Main Applications
 
 ## Papers (Topic-wise, Reverse Chronological Order)
 
+## Tutorials & Talks & Blogs
+
+
 ## Open Source Libraries & Platforms
 
 - [ ] [Tencent Holdings Ltd. (2020)\
 The iDrug platform.](https://drug.ai.tencent.com/en)
-
-
-## Tutorials & Talks & Blogs
