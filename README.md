@@ -26,6 +26,12 @@
 
 ### Protein structure prediction
 
+- [ ] [Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. (2021). \
+ Highly accurate protein structure prediction with AlphaFold. Nature, 1-11.](https://www.nature.com/articles/s41586-021-03819-2)
+
+- [ ] [Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. (2021). \
+ Accurate prediction of protein structures and interactions using a 3-track network. Science.](https://www.biorxiv.org/content/10.1101/2021.06.14.448402v1.abstract)
+
 ### Retrosynthetic analysis
 
 ### Generative chemistry
