@@ -22,6 +22,10 @@
 
 ### ADMET prediction
 
+- [ ] [Rong, Y., Bian, Y., Xu, T., Xie, W., Wei, Y., Huang, W., & Huang, J. (2020). \
+ Self-supervised graph transformer on large-scale molecular data. NeurIPS 2020.](https://arxiv.org/abs/2007.02835)
+
+
 ### Protein property prediction
 
 ### Protein structure prediction
@@ -38,6 +42,10 @@
 
 - [ ] [Shi, C., Luo, S., Xu, M., & Tang, J. (2021). \
  Learning gradient fields for molecular conformation generation. arXiv preprint arXiv:2105.03902.](https://arxiv.org/abs/2105.03902)
+
+- [ ] [Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J. (2020). \
+ Graphaf: a flow-based autoregressive model for molecular graph generation. arXiv preprint arXiv:2001.09382.](https://arxiv.org/abs/2001.09382)
+
 
 ### Virtual screening
 
