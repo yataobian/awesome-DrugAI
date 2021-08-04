@@ -11,6 +11,7 @@
     - [Protein structure prediction](#protein-structure-prediction)
     - [Retrosynthetic analysis](#retrosynthetic-analysis)
     - [Generative chemistry](#generative-chemistry)
+    - [Drug repurposing](#drug-repurposing)
     - [Virtual screening](#virtual-screening)
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
@@ -47,10 +48,17 @@
  Graphaf: a flow-based autoregressive model for molecular graph generation. arXiv preprint arXiv:2001.09382.](https://arxiv.org/abs/2001.09382)
 
 
+### Drug repurposing
+
+
 ### Virtual screening
 
 
 ## Tutorials & Talks & Blogs
+
+- [ ] [Jian Tang, Fei Wang, Feixiong Cheng. (2021). \
+AAAI 2021 Tutorial Artificial Intelligence for Drug Discovery](https://deepgraphlearning.github.io/DrugTutorial_AAAI2021/)
+
 
 ## Open Source Libraries & Platforms
 
