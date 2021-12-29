@@ -6,20 +6,33 @@
 ## Table of Contents
 - [Main Applications](#main-applications)
 - [Papers (Topic-wise, Reverse Chronological Order)](#papers-topic-wise-reverse-chronological-order))
+    - [Virtual screening & Docking & Molecular interaction](#virtual-screening--docking--molecular-interaction)
     - [ADMET prediction](#admet-prediction)
     - [Protein property prediction](#protein-property-prediction)
     - [Protein structure prediction](#protein-structure-prediction)
     - [Retrosynthetic analysis](#retrosynthetic-analysis)
     - [Generative chemistry](#generative-chemistry)
     - [Drug repurposing](#drug-repurposing)
-    - [Virtual screening](#virtual-screening)
+
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
 - [Open Source Libraries & Platforms](#open-source-libraries--platforms)
 
 ## Main Applications
 
+- [ ] Virtual screening
+- [ ] Protein structure prediction
+- [ ] Retrosynthetic analysis
+- [ ] Generative chemistry
+- [ ] ADMET prediction
+- [ ] Drug repurposing
+
 ## Papers (Topic-wise, Reverse Chronological Order)
+
+### Virtual screening & Docking & Molecular interaction
+
+- [ ] [Ganea, O. E., Huang, X., Bunne, C., Bian, Y., Barzilay, R., Jaakkola, T., & Krause, A. (2021). \
+  Independent SE (3)-Equivariant Models for End-to-End Rigid Protein Docking. arXiv preprint arXiv:2111.07786.](https://arxiv.org/abs/2111.07786)
 
 ### ADMET prediction
 
@@ -50,8 +63,6 @@
 
 ### Drug repurposing
 
-
-### Virtual screening
 
 
 ## Tutorials & Talks & Blogs
