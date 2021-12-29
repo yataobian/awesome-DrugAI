@@ -7,6 +7,7 @@
 - [Main Applications](#main-applications)
 - [Papers (Topic-wise, Reverse Chronological Order)](#papers-topic-wise-reverse-chronological-order))
     - [Virtual screening & Docking & Molecular interaction](#virtual-screening--docking--molecular-interaction)
+    - [Molecular dynamics](#molecular-dynamics)
     - [ADMET prediction](#admet-prediction)
     - [Protein property prediction](#protein-property-prediction)
     - [Protein structure prediction](#protein-structure-prediction)
@@ -33,6 +34,9 @@
 
 - [ ] [Ganea, O. E., Huang, X., Bunne, C., Bian, Y., Barzilay, R., Jaakkola, T., & Krause, A. (2021). \
   Independent SE (3)-Equivariant Models for End-to-End Rigid Protein Docking. arXiv preprint arXiv:2111.07786.](https://arxiv.org/abs/2111.07786)
+
+## Molecular dynamics
+
 
 ### ADMET prediction
 
