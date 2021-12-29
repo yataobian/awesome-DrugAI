@@ -63,6 +63,8 @@
 
 ### Drug repurposing
 
+- [ ] [Pushpakom, S., Iorio, F., Eyers, P. A., Escott, K. J., Hopper, S., Wells, A., ... & Pirmohamed, M. (2019). \
+  Drug repurposing: progress, challenges and recommendations. Nature reviews Drug discovery, 18(1), 41-58.](https://www.nature.com/articles/nrd.2018.168/boxes/bx5)
 
 
 ## Tutorials & Talks & Blogs
