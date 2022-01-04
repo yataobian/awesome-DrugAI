@@ -11,9 +11,11 @@
     - [ADMET prediction](#admet-prediction)
     - [Protein property prediction](#protein-property-prediction)
     - [Protein structure prediction](#protein-structure-prediction)
+    - [Protein design](#protein-design)
     - [Retrosynthetic analysis](#retrosynthetic-analysis)
     - [Generative chemistry](#generative-chemistry)
     - [Drug repurposing](#drug-repurposing)
+    - [Antibiotic discovery](#antibiotic-discovery)
 
 
 - [Tutorials & Talks & Blogs](#tutorials--talks--blogs)
@@ -35,7 +37,7 @@
 - [ ] [Ganea, O. E., Huang, X., Bunne, C., Bian, Y., Barzilay, R., Jaakkola, T., & Krause, A. (2021). \
   Independent SE (3)-Equivariant Models for End-to-End Rigid Protein Docking. arXiv preprint arXiv:2111.07786.](https://arxiv.org/abs/2111.07786)
 
-## Molecular dynamics
+### Molecular dynamics
 
 
 ### ADMET prediction
@@ -54,6 +56,9 @@
 - [ ] [Baek, M., DiMaio, F., Anishchenko, I., Dauparas, J., Ovchinnikov, S., Lee, G. R., ... & Baker, D. (2021). \
  Accurate prediction of protein structures and interactions using a 3-track network. Science.](https://www.biorxiv.org/content/10.1101/2021.06.14.448402v1.abstract)
 
+
+### Protein design
+
 ### Retrosynthetic analysis
 
 ### Generative chemistry
@@ -69,6 +74,12 @@
 
 - [ ] [Pushpakom, S., Iorio, F., Eyers, P. A., Escott, K. J., Hopper, S., Wells, A., ... & Pirmohamed, M. (2019). \
   Drug repurposing: progress, challenges and recommendations. Nature reviews Drug discovery, 18(1), 41-58.](https://www.nature.com/articles/nrd.2018.168/boxes/bx5)
+
+### Antibiotic discovery
+
+- [ ] [Stokes, J. M., Yang, K., Swanson, K., Jin, W., Cubillos-Ruiz, A., Donghia, N. M., ... & Collins, J. J. (2020).  \
+A deep learning approach to antibiotic discovery. Cell, 180(4), 688-702.](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
+
 
 
 ## Tutorials & Talks & Blogs
